@@ -10,7 +10,7 @@ El presente repositorio contiene un notebook exploratorio referente a los indica
 
 ## Contenido del Notebook
 
-El notebook ('notebook_1.ipynb`) contiene lo siguiente:
+El notebook (`notebook_1.ipynb`) en la carpeta `src` contiene lo siguiente:
 
 1. Lectura del archivo de Base de Datos por Municipio 2020 del índice de marginación desde la página de descargas del gobierno federal mexicano en un dataframe. 
 
